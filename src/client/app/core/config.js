@@ -14,7 +14,7 @@
 
     var config = {
         appErrorPrefix: '[ccsEvaluator Error] ',
-        appTitle: 'ccsEvaluator'
+        appTitle: 'CCS Evaluator'
     };
 
     core.value('config', config);
