@@ -1,5 +1,7 @@
 # ng-base
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jaredwilli/ng-base.svg)](https://greenkeeper.io/)
+
 **Generated from HotTowel Angular**
 
 >*Opinionated Angular style guide for teams by [@john_papa](//twitter.com/john_papa)*
